@@ -2,5 +2,6 @@
 void main()
 {
 printf("hi1");
+printf("hi2");
 }
 
